@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Coding/Arduino"
+		},
+		{
+			"name": "EPS32-Weather",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
