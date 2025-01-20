@@ -57,7 +57,7 @@ This project is an ESP32-based weather station that measures temperature, humidi
 
 ## Screenshots
 
-![Web Interface](https://img.icons8.com/color/96/000000/web.png)
+![Web Interface](./static/webInterface.png)
 
 ## Libraries Used
 
