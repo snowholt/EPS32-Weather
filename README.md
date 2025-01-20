@@ -1,6 +1,6 @@
 # ESP32 Weather Station
 
-![Weather Station](https://img.icons8.com/color/96/000000/weather.png)
+![Weather Station](https://img.icons8.com/?size=100&id=txoP0q0H3NEb&format=png&color=000000)
 
 ## Overview
 
