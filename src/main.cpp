@@ -9,8 +9,8 @@
 #define DHTPIN 4     // Pin where the DHT11 is connected
 #define DHTTYPE DHT11
 
-const char* ssid = "Dark.Lumi";
-const char* password = "C961E9C4DDCA";
+const char* ssid = "";
+const char* password = "";
 
 DHT dht(DHTPIN, DHTTYPE);
 SFE_BMP180 bmp180;
